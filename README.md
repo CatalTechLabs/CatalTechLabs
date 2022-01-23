@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilker Catal
-- 👀 I’m interested in learning new programing languaged  
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning JAVA,R,Python
+- 💞️ I’m looking to collaborate on non profit fun projects to make world a better place
 - 📫 How to reach me ...
 
 
